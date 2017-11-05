@@ -23,7 +23,11 @@ open the python 3 file and run all of the code
 
 ### Authors
 Aniket Pant
+
 Viraj Kacker
+
 Matthias Rathbun
+
 Cole McKee
+
 Lonnie Webb
